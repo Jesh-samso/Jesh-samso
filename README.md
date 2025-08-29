@@ -1,6 +1,7 @@
 # Hi there, I'm Samson Opondo! 👋  
 
-![Banner Image](https://github.com/your-username/your-repo/blob/main/banner.png)  
+![Banner Image](https://images.unsplash.com/photo-1517430816045-df4b7de1d1c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+
 
 ## About Me 🚀  
 
