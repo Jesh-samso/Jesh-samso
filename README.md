@@ -1,16 +1,16 @@
-# Hi there, I'm Samson Opondo! 👋
+# Hi there, I'm Samson Opondo! 👋  
 
-![Banner Image](https://github.com/your-username/your-repo/blob/main/banner.png)
+![Banner Image](https://github.com/your-username/your-repo/blob/main/banner.png)  
 
-## About Me 🚀
+## About Me 🚀  
 
 I'm a passionate **Software Engineering Student & Web Developer** currently pursuing my degree at **Kenyatta University** and enrolled in the **ALX Software Engineering Program**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create impactful solutions.  
 
 - 🌱 Currently learning: **Bash, Git/GitHub, HTML, CSS, JavaScript, React**  
-- 🔭 Working on: **My personal portfolio website & ALX projects**  
+- 🔭 Working on: **My personal portfolio & ALX projects**  
 - 🌍 Languages: **JavaScript, Python, Bash** | **English, Kiswahili**  
-- 📫 How to reach me: **samsonopondo1274@gmail.com**  
-- ⚡ Fun fact: *I enjoy exploring how technology can solve everyday problems and I believe consistency beats perfection.*  
+- 📫 Reach me at: **samsonopondo1274@gmail.com**  
+- ⚡ Fun fact: *Consistency beats perfection every time.*  
 
 ---
 
@@ -28,17 +28,13 @@ I'm a passionate **Software Engineering Student & Web Developer** currently purs
 
 ## Featured Projects 💻  
 
-### [Portfolio Website](https://github.com/your-username/portfolio-website)
+### [Personal Portfolio Website](https://sites.google.com/d/1bZNLbrs-AVekHWbNp9iziGJx6dAbL5zX/p/1mHwANnND5pYWwEK-r6svsVsdrD--P2k6/edit?pli=1)  
 
-![Project 1 Screenshot](https://github.com/your-username/portfolio-website/blob/main/screenshot.png)
-
-A personal **portfolio website** showcasing my skills, projects, and journey as a developer. Built with **HTML, CSS, and JavaScript**, this project highlights my growth in **frontend development**.  
+A **personal portfolio website** designed using **Google Slides** to creatively showcase my skills, projects, and developer journey.  
 
 ---
 
-### [Bash Scripting Practice](https://github.com/your-username/bash-practice)
-
-![Project 2 Screenshot](https://savanna.alxafrica.com/user_containers/730900/webterm))
+### [Bash Scripting Practice](https://github.com/your-username/bash-practice)  
 
 A collection of **Bash scripts** created during my ALX journey. This project demonstrates my skills in **automation, shell scripting, and problem-solving in Linux environments**.  
 
@@ -46,8 +42,8 @@ A collection of **Bash scripts** created during my ALX journey. This project dem
 
 ## Get in Touch 📬  
 
-- 🌐 [Personal Website / Blog](https://sites.google.com/d/1bZNLbrs-AVekHWbNp9iziGJx6dAbL5zX/p/1mHwANnND5pYWwEK-r6svsVsdrD--P2k6/edit?pli=1)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/samson-opondo-29b101287/))  
+- 🌐 [Personal Website](https://sites.google.com/d/1bZNLbrs-AVekHWbNp9iziGJx6dAbL5zX/p/1mHwANnND5pYWwEK-r6svsVsdrD--P2k6/edit?pli=1)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/samson-opondo-29b101287/)  
 - 🐦 [Twitter](https://x.com/Samso_001)  
 - 📧 **samsonopondo1274@gmail.com**  
 
