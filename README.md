@@ -1,6 +1,7 @@
 # Hi there, I'm Samson Opondo! 👋  
 
-![Banner Image](https://images.unsplash.com/photo-1517430816045-df4b7de1d1c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samson%20Opondo%20👨‍💻&fontSize=40&fontAlignY=35)
+
 
 
 ## About Me 🚀  
