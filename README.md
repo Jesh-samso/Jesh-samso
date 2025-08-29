@@ -1,6 +1,7 @@
 # Hi there, I'm Samson Opondo! 👋  
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samson%20Opondo%20👨‍💻&fontSize=40&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=230&section=header&text=Samson%20Opondo%20👨‍💻&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20Web%20Developer%20🚀&descAlignY=60&descAlign=50)
+
 
 
 
